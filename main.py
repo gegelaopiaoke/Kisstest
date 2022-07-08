@@ -11,4 +11,4 @@ poco = AndroidUiautomationPoco(use_airtest_input=True, screenshot_each_action=Fa
 logger = logging.getLogger("airtest")
 logger.setLevel(logging.ERROR)
 start_app("com.stardust.kissreader")
-# start_app是启动,stop_app是停止app,clear_app是清除缓存
+# start_app是启动,stop_app是停止app,clear_app是清除缓存,其他的可以看文档或者百度或者点进去看
